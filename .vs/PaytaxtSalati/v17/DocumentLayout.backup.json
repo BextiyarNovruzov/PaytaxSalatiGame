@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\PaytaxtSalati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6AD8DF-0A28-4101-9CC7-0944946F39AA}|PaytaxtSalati\\PaytaxtSalati.csproj|c:\\users\\ii novbe\\source\\repos\\paytaxtsalati\\paytaxtsalati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6AD8DF-0A28-4101-9CC7-0944946F39AA}|PaytaxtSalati\\PaytaxtSalati.csproj|solutionrelative:paytaxtsalati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6AD8DF-0A28-4101-9CC7-0944946F39AA}|PaytaxtSalati\\PaytaxtSalati.csproj|c:\\users\\ii novbe\\source\\repos\\paytaxtsalati\\paytaxtsalati\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6AD8DF-0A28-4101-9CC7-0944946F39AA}|PaytaxtSalati\\PaytaxtSalati.csproj|solutionrelative:paytaxtsalati\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\PaytaxtSalati\\PaytaxtSalati\\Weapon.cs",
+              "RelativeDocumentMoniker": "PaytaxtSalati\\Weapon.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\PaytaxtSalati\\PaytaxtSalati\\Weapon.cs",
+              "RelativeToolTip": "PaytaxtSalati\\Weapon.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwGsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:17:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\PaytaxtSalati\\PaytaxtSalati\\Program.cs",
+              "RelativeDocumentMoniker": "PaytaxtSalati\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\PaytaxtSalati\\PaytaxtSalati\\Program.cs",
+              "RelativeToolTip": "PaytaxtSalati\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:16:01.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaytaxtSalati/1.0.0": {
+        "runtime": {
+          "PaytaxtSalati.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaytaxtSalati/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.sourcelink.json
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\bin\Debug\net8.0\PaytaxtSalati.exe
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\bin\Debug\net8.0\PaytaxtSalati.deps.json
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\bin\Debug\net8.0\PaytaxtSalati.runtimeconfig.json
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\bin\Debug\net8.0\PaytaxtSalati.dll
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\bin\Debug\net8.0\PaytaxtSalati.pdb
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.dll
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\refint\PaytaxtSalati.dll
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.pdb
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\PaytaxtSalati.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\PaytaxtSalati\PaytaxtSalati\obj\Debug\net8.0\ref\PaytaxtSalati.dll
